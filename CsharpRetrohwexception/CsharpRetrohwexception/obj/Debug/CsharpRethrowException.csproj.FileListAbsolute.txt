@@ -1,0 +1,5 @@
+c:\users\grupotx\documents\visual studio 2017\Projects\CsharpRetrohwexception\CsharpRetrohwexception\bin\Debug\CsharpRetrohwexception.exe.config
+c:\users\grupotx\documents\visual studio 2017\Projects\CsharpRetrohwexception\CsharpRetrohwexception\bin\Debug\CsharpRetrohwexception.exe
+c:\users\grupotx\documents\visual studio 2017\Projects\CsharpRetrohwexception\CsharpRetrohwexception\bin\Debug\CsharpRetrohwexception.pdb
+c:\users\grupotx\documents\visual studio 2017\Projects\CsharpRetrohwexception\CsharpRetrohwexception\obj\Debug\CsharpRetrohwexception.exe
+c:\users\grupotx\documents\visual studio 2017\Projects\CsharpRetrohwexception\CsharpRetrohwexception\obj\Debug\CsharpRetrohwexception.pdb
